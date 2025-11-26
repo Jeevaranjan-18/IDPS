@@ -1,0 +1,3512 @@
+[
+  {
+    "timestamp": "2025-11-26T11:20:24.587248",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.18"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:24.606705",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.40"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:24.612119",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.54"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:24.649660",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.178"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:24.723021",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.83"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:24.866516",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.250"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:24.871406",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.250"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:24.893822",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.220"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:24.920620",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:24.925565",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:24.930019",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:24.934694",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:24.939140",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:24.943546",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:24.948167",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:24.952595",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:24.956998",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:25.239816",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.250"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:25.514520",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:25.537906",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.18"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:25.555000",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.54"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:25.566625",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.40"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:25.811285",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.6"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:25.843861",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.113"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:26.094137",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.220"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:26.100660",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:26.105400",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:26.110113",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:26.115112",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:26.119716",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:26.124128",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:26.128888",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:26.707260",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.4"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:26.734777",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.18"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:27.030197",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.220"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:27.035623",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 0.0.0.0"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:27.041320",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 0.0.0.0"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:27.068204",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:27.084102",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:27.091768",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 0.0.0.0"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:27.107492",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:27.112256",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:27.116939",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:27.121359",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:27.126265",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:27.131010",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:27.644906",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.91"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:27.649845",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.35"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:27.655394",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.92"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:27.949439",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:27.954085",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:27.958702",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:27.963328",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:27.967794",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:27.972061",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:28.881445",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.6"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:28.886799",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.6"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:29.179289",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.28"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:29.535042",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.124"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:29.785616",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 0.0.0.0"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:29.790704",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:29.795865",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:29.860622",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:29.865822",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:29.881427",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:30.108539",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.149"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:30.114035",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:30.706031",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:30.753967",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.124"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:31.052488",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.35"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:31.376380",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.83"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:32.016747",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:32.049395",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 160.79.104.10"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:32.055795",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:32.238355",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.6"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:32.255908",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.18"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:32.267980",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.54"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:32.340714",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.83"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:32.401065",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.250"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:32.406103",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.124"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:32.551454",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.111"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:32.643280",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.250"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:32.887645",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.18"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:32.893180",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.54"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:32.919730",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.40"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:32.930750",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.178"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:32.949061",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.141"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:33.476264",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.6"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:34.419536",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.35"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:35.037707",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.87"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:35.628040",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.86"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:35.642743",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.4"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:35.652157",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.38"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:35.656911",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:35.926676",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.113"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:36.610483",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.110"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:36.861604",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.124"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:36.867444",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.110"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:36.879841",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 0.0.0.0"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:37.216381",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 0.0.0.0"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:37.231311",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:37.529476",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.153"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:37.814636",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.116"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:37.852024",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:37.939789",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.116"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:38.083423",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.35"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:38.108508",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.116"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:38.383890",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.160"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:38.999057",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.116"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:39.035553",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.201"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:39.306815",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.1"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:39.343644",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.201"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:40.265736",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.116"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:41.464399",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.168"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:41.469625",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.83"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:41.474508",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.35"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:42.379046",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.40"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:42.394687",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.116"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:42.735384",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 0.0.0.0"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:42.740247",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.1"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:42.985613",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.124"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:42.993855",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.40"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:43.307348",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.145"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:43.340364",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.145"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:43.345841",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 0.0.0.0"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:43.351473",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:43.356263",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.89"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:43.609610",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:43.615375",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:43.620247",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:43.636537",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:43.706928",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:43.915234",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.150"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:44.286296",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.145"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:44.324608",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:44.543490",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.145"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:44.553873",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.145"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:44.568508",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.145"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:44.573238",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.145"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:44.593292",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.124"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:44.635968",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 0.0.0.0"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:44.932359",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.145"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:45.156152",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.250"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:45.160861",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.35"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:45.165285",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.250"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:45.814964",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.154"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:45.820361",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.83"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:45.825213",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 0.0.0.0"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:45.858470",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.250"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:46.067962",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.6"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:46.149102",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.113"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:46.165514",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.54"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:46.221163",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.198"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:46.386742",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.124"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:46.808515",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.198"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:47.365891",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 0.0.0.0"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:48.524998",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.124"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:48.541613",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.163"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:48.574127",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.35"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:48.588614",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.218"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:48.848990",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.85"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:49.137694",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.151"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:49.508745",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.154"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:49.899564",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 0.0.0.0"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.107152",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.525259",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.535820",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.547324",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.558284",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.564833",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.570568",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.581655",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.587800",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.593208",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.599013",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.604248",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.609610",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.615032",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.620503",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.626387",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.637685",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.643177",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.648979",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 172.67.212.194"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.654526",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 172.67.212.194"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.659539",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.664389",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 172.67.212.194"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.669299",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.674294",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 172.67.212.194"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.683679",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 172.67.212.194"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.704329",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.709120",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.713876",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.718553",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.728000",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.732713",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.742579",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 160.79.104.10"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.747515",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 160.79.104.10"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.752450",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 160.79.104.10"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.757668",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 160.79.104.10"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.762308",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 160.79.104.10"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.766858",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 160.79.104.10"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.771464",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 160.79.104.10"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.775948",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.780517",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.785111",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.789748",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.794379",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.827947",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 172.67.212.194"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.832477",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 172.67.212.194"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.836947",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 172.67.212.194"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.845866",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 160.79.104.10"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.855034",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.864706",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.869187",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.873662",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.878189",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.882638",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.887440",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.892074",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.896744",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.901534",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.906146",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 172.67.212.194"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.915250",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.920034",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.929291",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.933850",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 172.67.212.194"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.938375",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.943006",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.947500",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.952075",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.956572",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.961167",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.965847",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.970529",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.975134",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.979815",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.984514",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.989442",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.994145",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:50.998909",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.003607",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.008279",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.012785",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.017275",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.022220",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.027031",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.031631",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.036437",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.041695",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.046675",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.051539",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.056438",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.061159",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.066652",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.071456",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.076444",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.081389",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.086176",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.090887",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.095576",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.100818",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.105811",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.110719",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.115378",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.119999",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.124686",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.129244",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.133794",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.138355",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.142831",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.147263",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.151805",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.156269",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.160782",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.165439",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.169870",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.174481",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.179548",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.184533",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.190174",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.195815",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.201330",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.206332",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.211251",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.215903",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.220634",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.225553",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.230453",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.235157",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.339742",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.26"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.361472",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.366448",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.371160",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.375728",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.380278",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.384849",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.389816",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.394377",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.399166",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.403726",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.408458",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.413236",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.418102",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.422870",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.427639",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.432209",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.437375",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.442001",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.446521",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.451028",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.455508",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.460145",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.464742",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.469266",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.473910",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.478449",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.482997",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.487499",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.491987",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.496480",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.501097",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.505937",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.510801",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.515782",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.520625",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.525274",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.529854",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.534451",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.539127",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.548373",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.553023",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.557604",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.562200",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.587781",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.592348",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.596856",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.601465",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.606019",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.610510",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.616031",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.620802",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.625410",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.629997",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.634551",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.639204",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.643640",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.652671",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.657294",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 172.217.24.196"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.661933",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 172.217.24.196"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.666508",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 172.217.24.196"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.671038",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.680034",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 172.217.24.196"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.684646",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 172.217.24.196"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.694371",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 172.217.24.196"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.698876",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.703398",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 172.217.24.196"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.707975",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 172.217.24.196"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.717047",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.721579",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.726158",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 172.217.24.196"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.730678",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 172.217.24.196"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.744338",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.748852",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.753334",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 172.217.24.196"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.757923",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.762429",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.778879",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.83"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.820577",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.37"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.825731",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.830356",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.834874",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.839427",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.844026",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.848607",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.853174",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.857786",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.862498",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.867028",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.871559",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.876123",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.880649",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.885225",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.889917",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.894575",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.899130",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.903772",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.908311",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.933331",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.35"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.938082",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.942646",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.947371",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.952035",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.956615",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.961164",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:51.965784",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.001766",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.007509",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.012086",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.040685",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.046767",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.051430",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.085276",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.090431",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.094995",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.099562",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.127119",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.133346",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.137848",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.142398",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.146997",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.151534",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.195724",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.201899",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.206526",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.210993",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.249417",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.198"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.286475",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.291131",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.295769",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.300417",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.309435",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.313996",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.352666",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.371686",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.377918",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.411928",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.419287",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.424095",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.461403",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.466078",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.470634",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.476180",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.481072",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.485701",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.491012",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.501365",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.506371",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.515593",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.520238",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.525167",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.530091",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.535754",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.145"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.550575",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.145"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.575571",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.198"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.681030",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.685620",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.690247",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.694739",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.699604",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.704196",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.708648",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.713591",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.718704",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.723435",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.727996",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.732603",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.737198",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.741732",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.746393",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.750966",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.755484",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.760023",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 151.101.194.208"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.764583",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:52.885158",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.145"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:53.133566",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.124"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:53.443365",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.89"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:53.759545",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.223"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:53.970374",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:53.975126",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:54.017556",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 160.79.104.10"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:54.022250",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 160.79.104.10"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:54.026814",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:54.043800",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.136"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:54.668790",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.83"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:54.695802",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.145"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:54.700453",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.201"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:54.705500",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.145"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:54.715225",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 17.253.18.99"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:54.738082",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 140.82.112.25"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:54.743238",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:54.989441",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.145"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.045465",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 140.82.112.25"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.303699",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.430880",
+    "type": "Port Scan Attack",
+    "severity": "CRITICAL",
+    "details": "Source IP: 8.8.8.8 scanning multiple ports"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.436687",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.443474",
+    "type": "Port Scan Attack",
+    "severity": "CRITICAL",
+    "details": "Source IP: 8.8.8.8 scanning multiple ports"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.448424",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.593008",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.35"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.597742",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.62"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.693645",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.698372",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.702861",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.707391",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.711977",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.736973",
+    "type": "Port Scan Attack",
+    "severity": "CRITICAL",
+    "details": "Source IP: 8.8.8.8 scanning multiple ports"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.743182",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.883699",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.67"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.929523",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 18.210.88.157"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.934187",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 18.210.88.157"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.938779",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 18.210.88.157"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.943327",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 18.210.88.157"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.947882",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 18.210.88.157"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.952539",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 18.210.88.157"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:55.957075",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:56.195685",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.113"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:56.804159",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.26"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:57.133406",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 0.0.0.0"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:57.142713",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:57.148904",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:57.153774",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:57.169160",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:57.486366",
+    "type": "Port Scan Attack",
+    "severity": "CRITICAL",
+    "details": "Source IP: 8.8.8.8 scanning multiple ports"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:57.491190",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:57.496896",
+    "type": "Port Scan Attack",
+    "severity": "CRITICAL",
+    "details": "Source IP: 8.8.8.8 scanning multiple ports"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:57.501661",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:57.502995",
+    "type": "Port Scan Attack",
+    "severity": "CRITICAL",
+    "details": "Source IP: 8.8.8.8 scanning multiple ports"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:57.507773",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:57.721876",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:57.738762",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.227"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:57.750032",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 0.0.0.0"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:58.055827",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.82"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:58.060482",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:59.252762",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.35"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:59.596472",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.26"
+  },
+  {
+    "timestamp": "2025-11-26T11:20:59.882264",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.198"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:00.483216",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.198"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:00.734036",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:00.765480",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:00.788290",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.91"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:01.121883",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.91"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:01.407480",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.236"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:01.479001",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:01.539935",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:01.691013",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.83"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:02.308812",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.62"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:02.634736",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.26"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:02.640165",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.35"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:02.656256",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.92"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:03.541212",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.89"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:04.200897",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.62"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:04.494792",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.154"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:04.545058",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 0.0.0.0"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:04.718445",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:04.754271",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:05.030536",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 18.97.36.54"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:05.037056",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.9"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:05.060022",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.154"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:05.075502",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:05.245006",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:05.303547",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 8.8.8.8"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:05.344260",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 162.159.200.1"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:05.531597",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 172.67.212.194"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:05.977030",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.35"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:06.289346",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.82"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:06.307643",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.26"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:06.312532",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.62"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:06.335057",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.149"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:07.555059",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.111"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:07.831869",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.141"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:08.155168",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.139"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:08.482286",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.139"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:08.767217",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.177"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:09.070659",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.26"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:09.075851",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.26"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:09.655099",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.35"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:09.667219",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.241"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:10.272287",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.87"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:10.605424",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.86"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:10.615080",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.148"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:10.916484",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 0.0.0.0"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:10.922755",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:10.928482",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:10.934062",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:11.196234",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:11.516563",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.70"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:11.522139",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.83"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:13.048633",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.48"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:13.055125",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.48"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:13.060085",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.48"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:13.065243",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.48"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:13.070522",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.48"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:13.082288",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.35"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:13.105586",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.48"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:13.358193",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.67.48"
+  },
+  {
+    "timestamp": "2025-11-26T11:21:13.649972",
+    "type": "ML Anomaly Detection",
+    "severity": "MEDIUM",
+    "details": "Anomalous traffic pattern from 192.168.66.26"
+  }
+]
