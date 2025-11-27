@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Test Script for Immediate Email Alerts
-This script simulates IDS alerts and sends emails immediately
-"""
-
 import time
 from datetime import datetime
 from email_notifier import EmailNotifier
@@ -15,7 +9,6 @@ def test_immediate_alerts():
 ╚═══════════════════════════════════════════════════════════════╝
     """)
     
-    # Initialize email notifier
     print("📧 Initializing email notifier...")
     notifier = EmailNotifier()
     
@@ -49,7 +42,6 @@ def test_immediate_alerts():
     print("SENDING TEST ALERTS")
     print("="*70)
     
-    # Test different severity levels
     test_alerts = [
         {
             'type': 'Port Scan Attack',
@@ -78,7 +70,6 @@ def test_immediate_alerts():
     for i, alert in enumerate(test_alerts, 1):
         print(f"\n[{i}/{len(test_alerts)}] Sending: {alert['type']} ({alert['severity']})")
         
-        # Send alert
         notifier.send_alert(
             alert_type=alert['type'],
             severity=alert['severity'],
@@ -91,7 +82,7 @@ def test_immediate_alerts():
             print(f"    ⏳ Alert added to batch queue")
         else:
             print(f"    ✅ Email sent immediately!")
-            time.sleep(2)  # Wait 2 seconds between emails
+            time.sleep(2)  
     
     print("\n" + "="*70)
     print("TEST COMPLETED")
