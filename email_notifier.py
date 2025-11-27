@@ -291,6 +291,5 @@ def test_email_setup():
     else:
         print("Test cancelled.")
 
-
 if __name__ == "__main__":
     test_email_setup()
