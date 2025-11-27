@@ -7,6 +7,20 @@ Installation of Requirment Package
 pip install -r requirements.txt
 ```
 
+Configure the email address
+
+Sender Address
+```
+sender_email': 'your-email-address@gmail.com',
+sender_password': 'App Passwords'
+```
+Receiver Address
+```
+recipient_emails': [
+        'recevier-address-@gmail.com'
+    ],
+```
+
 Running command
 
 ```
@@ -21,12 +35,13 @@ In windows
 python ids_network.py
 ```
 
--run as admin
+  -run as admin
+  
 Web dashboard starting 
 
 ```
 python ids_dashboard2.py
 ```
 
-- in linux and windows
+  - in linux and windows
   
