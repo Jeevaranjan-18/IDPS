@@ -1,8 +1,3 @@
-"""
-Email Notification Module for IDS
-Handles sending email alerts for security events
-"""
-
 import smtplib
 import threading
 import time
@@ -36,23 +31,19 @@ class EmailNotifier:
             logging.info("Email notifications are disabled")
             return
         
-        # Email rate limiting
         self.email_count = 0
         self.email_reset_time = datetime.now() + timedelta(hours=1)
         self.max_emails_per_hour = self.config.get('max_emails_per_hour', 10)
         
-        # Batch alert settings
         self.batch_alerts = self.config.get('batch_alerts', True)
         self.batch_interval = self.config.get('batch_interval', 300)
         self.pending_alerts = deque()
         self.last_batch_send = datetime.now()
         
-        # Alert threshold
         severity_levels = {'LOW': 0, 'MEDIUM': 1, 'HIGH': 2, 'CRITICAL': 3}
         threshold = self.config.get('alert_threshold', 'MEDIUM')
         self.min_severity = severity_levels.get(threshold, 1)
         
-        # Start batch processing thread
         if self.batch_alerts:
             self.batch_thread = threading.Thread(target=self._batch_processor, daemon=True)
             self.batch_thread.start()
@@ -86,7 +77,6 @@ class EmailNotifier:
     def _send_email(self, subject, body, recipients=None):
         """Send email using SMTP"""
         try:
-            # Use configured recipients if none provided
             if recipients is None:
                 recipients = self.config.get('recipient_emails', [])
             
@@ -94,16 +84,13 @@ class EmailNotifier:
                 logging.error("No recipient emails configured")
                 return False
             
-            # Create message
             msg = MIMEMultipart('alternative')
             msg['From'] = self.config['sender_email']
             msg['To'] = ', '.join(recipients)
             msg['Subject'] = subject
             
-            # Attach body
             msg.attach(MIMEText(body, 'plain'))
             
-            # Connect to SMTP server
             with smtplib.SMTP(self.config['smtp_server'], self.config['smtp_port']) as server:
                 server.starttls()
                 server.login(self.config['sender_email'], self.config['sender_password'])
@@ -129,11 +116,9 @@ class EmailNotifier:
         if not self.enabled:
             return
         
-        # Check if alert meets severity threshold
         if not self._should_send_alert(severity):
             return
         
-        # Add to batch queue if batching is enabled
         if self.batch_alerts:
             self.pending_alerts.append({
                 'alert_type': alert_type,
@@ -145,12 +130,10 @@ class EmailNotifier:
             })
             return
         
-        # Check rate limit
         if not self._check_rate_limit():
             logging.warning("Email rate limit reached. Alert not sent.")
             return
         
-        # Prepare email content
         subject = EMAIL_SUBJECT_TEMPLATE.format(
             severity=severity,
             alert_type=alert_type
@@ -166,7 +149,6 @@ class EmailNotifier:
             recommendations=self._get_recommendations(alert_type)
         )
         
-        # Send email in separate thread to avoid blocking
         email_thread = threading.Thread(
             target=self._send_email,
             args=(subject, body),
@@ -177,9 +159,8 @@ class EmailNotifier:
     def _batch_processor(self):
         """Process and send batch alerts periodically"""
         while True:
-            time.sleep(30)  # Check every 30 seconds
+            time.sleep(30)
             
-            # Check if it's time to send batch
             time_since_last = (datetime.now() - self.last_batch_send).total_seconds()
             
             if time_since_last >= self.batch_interval and len(self.pending_alerts) > 0:
@@ -190,12 +171,10 @@ class EmailNotifier:
         if not self.pending_alerts:
             return
         
-        # Check rate limit
         if not self._check_rate_limit():
             logging.warning("Email rate limit reached. Batch alerts delayed.")
             return
         
-        # Prepare alerts summary
         alerts_summary = ""
         critical_count = 0
         high_count = 0
@@ -215,15 +194,12 @@ Alert #{i}:
 
 """
         
-        # Get statistics from last alert
         last_alert = list(self.pending_alerts)[-1]
         
-        # Calculate time period
         first_time = datetime.fromisoformat(list(self.pending_alerts)[0]['timestamp'])
         last_time = datetime.fromisoformat(last_alert['timestamp'])
-        time_period = str(last_time - first_time).split('.')[0]  # Remove microseconds
+        time_period = str(last_time - first_time).split('.')[0]
         
-        # Prepare batch email
         subject = f"[IDS BATCH ALERT] {len(self.pending_alerts)} Security Alerts"
         
         body = BATCH_EMAIL_TEMPLATE.format(
@@ -236,11 +212,9 @@ Alert #{i}:
             high_count=high_count
         )
         
-        # Send email
         success = self._send_email(subject, body)
         
         if success:
-            # Clear pending alerts
             self.pending_alerts.clear()
             self.last_batch_send = datetime.now()
             logging.info(f"Batch alert sent successfully")
