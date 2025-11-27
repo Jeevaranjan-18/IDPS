@@ -9,12 +9,12 @@ pip install -r requirements.txt
 
 Configure the email address
 
-Sender Address
+Sender Address: email_config.py
 ```
 sender_email': 'your-email-address@gmail.com',
 sender_password': 'App Passwords'
 ```
-Receiver Address
+Receiver Address: email_config.py
 ```
 recipient_emails': [
         'recevier-address-@gmail.com'
@@ -35,7 +35,7 @@ In windows
 python ids_network.py
 ```
 
-  -run as admin
+  - run as admin
   
 Web dashboard starting 
 
