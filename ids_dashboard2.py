@@ -1,8 +1,3 @@
-"""
-Enhanced IDS Web Dashboard with Categorized Alerts
-Flask-based web interface with severity-based organization
-"""
-
 from flask import Flask, render_template, jsonify, request
 from flask_cors import CORS
 import json
@@ -13,7 +8,6 @@ from collections import defaultdict
 app = Flask(__name__)
 CORS(app)
 
-# Enhanced HTML template with categorized alerts
 HTML_TEMPLATE = """
 <!DOCTYPE html>
 <html lang="en">
@@ -502,30 +496,24 @@ header {
             fetch('/api/alerts')
                 .then(response => response.json())
                 .then(data => {
-                    // Update last update time
                     const now = new Date();
                     document.getElementById('last-update').textContent = now.toLocaleTimeString();
                     
-                    // Update total stats
                     document.getElementById('total-packets').textContent = data.total_packets || 0;
                     document.getElementById('total-alerts').textContent = data.alerts.length;
                     
-                    // Categorize alerts
                     const categorized = categorizeAlerts(data.alerts);
                     
-                    // Update severity counts
                     document.getElementById('critical-count').textContent = categorized.CRITICAL.length;
                     document.getElementById('high-count').textContent = categorized.HIGH.length;
                     document.getElementById('medium-count').textContent = categorized.MEDIUM.length;
                     document.getElementById('low-count').textContent = categorized.LOW.length;
                     
-                    // Update badges
                     document.getElementById('critical-badge').textContent = categorized.CRITICAL.length;
                     document.getElementById('high-badge').textContent = categorized.HIGH.length;
                     document.getElementById('medium-badge').textContent = categorized.MEDIUM.length;
                     document.getElementById('low-badge').textContent = categorized.LOW.length;
                     
-                    // Count by attack type
                     const typeCounts = countByType(data.alerts);
                     document.getElementById('ssh-count').textContent = typeCounts.ssh;
                     document.getElementById('ftp-count').textContent = typeCounts.ftp;
@@ -534,7 +522,6 @@ header {
                     document.getElementById('ddos-count').textContent = typeCounts.ddos;
                     document.getElementById('anomaly-count').textContent = typeCounts.anomaly;
                     
-                    // Render alerts by category
                     renderAlerts('critical-alerts', categorized.CRITICAL);
                     renderAlerts('high-alerts', categorized.HIGH);
                     renderAlerts('medium-alerts', categorized.MEDIUM);
@@ -545,10 +532,8 @@ header {
                 });
         }
         
-        // Load data on page load
         loadData();
         
-        // Auto-refresh every 5 seconds
         setInterval(loadData, 5000);
     </script>
 </body>
@@ -600,12 +585,10 @@ def get_statistics():
         else:
             alerts = []
         
-        # Categorize by severity
         severity_counts = defaultdict(int)
         for alert in alerts:
             severity_counts[alert.get('severity', 'LOW')] += 1
         
-        # Categorize by type
         type_counts = defaultdict(int)
         for alert in alerts:
             alert_type = alert.get('type', 'Unknown')
@@ -639,4 +622,4 @@ if __name__ == '__main__':
     
     Press Ctrl+C to stop the server
     """)
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    app.run(debug=True, host='0.0.0.0', port=9000)
