@@ -1,32 +1,18 @@
-"""
-Email Configuration for IDS
-Configure your email settings here
-"""
-
-# Email Configuration
 EMAIL_CONFIG = {
-    # SMTP Server Settings
-    'smtp_server': 'smtp.gmail.com',  # Gmail SMTP
-    'smtp_port': 587,  # TLS port (use 465 for SSL)
-    
-    # Sender Email Credentials
-    'sender_email': 'jeevaranjan180506@gmail.com',  # Your email
-    'sender_password': 'ogkztcymjjuukein',  # App password (NOT your regular password)
-    
-    # Recipient Settings
+    'smtp_server': 'smtp.gmail.com',
+    'smtp_port': 587,
+    'sender_email': 'jeevaranjan180506@gmail.com',
+    'sender_password': 'ogkztcymjjuukein',
     'recipient_emails': [
         'jeevs1808.m@gmail.com'
     ],
-    
-    # Notification Settings
-    'enable_email': True,  # Set to False to disable email notifications
-    'alert_threshold': 'MEDIUM',  # Minimum severity to send email: LOW, MEDIUM, HIGH, CRITICAL
-    'batch_alerts': True,  # Send multiple alerts in one email
-    'batch_interval': 300,  # Seconds to wait before sending batch (5 minutes)
-    'max_emails_per_hour': 10,  # Prevent email flooding
+    'enable_email': True,
+    'alert_threshold': 'MEDIUM',
+    'batch_alerts': True,
+    'batch_interval': 300,
+    'max_emails_per_hour': 10,
 }
 
-# Email Templates
 EMAIL_SUBJECT_TEMPLATE = "[IDS ALERT - {severity}] {alert_type}"
 
 EMAIL_BODY_TEMPLATE = """
@@ -70,11 +56,11 @@ BATCH_EMAIL_TEMPLATE = """
 
 Summary: {alert_count} security alerts detected in the last {time_period}
 
-═══════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════
 
 {alerts_summary}
 
-═══════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════
 
 System Statistics:
 - Total Packets Analyzed: {total_packets}
@@ -82,7 +68,7 @@ System Statistics:
 - Critical Alerts: {critical_count}
 - High Priority Alerts: {high_count}
 
-═══════════════════════════════════════════════════════════════
+═══════════════════════════════════════
 
 Please review the dashboard for detailed information.
 Dashboard: http://localhost:5000
@@ -90,7 +76,6 @@ Dashboard: http://localhost:5000
 This is an automated batch alert from your IDS.
 """
 
-# Recommendations based on alert type
 ALERT_RECOMMENDATIONS = {
     'Port Scan Attack': """
     1. Block the source IP address in your firewall
@@ -136,7 +121,6 @@ ALERT_RECOMMENDATIONS = {
     """
 }
 
-# Popular SMTP Server Settings (for reference)
 SMTP_SERVERS = {
     'gmail': {
         'server': 'smtp.gmail.com',
